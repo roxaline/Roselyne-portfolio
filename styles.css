@@ -1,10 +1,15 @@
 * {
-    background-color: wheat:
-}
+    background-image: url("https://tse2.mm.bing.net/th?id=OIP.gVVbC6n7VuiNWoTOd0_F1AHaEL&pid=15.1&P=0&w=275&h=156";
 a {
-    font-style: oblique;
-    color: maroon;
+    font-style: italic;
+    color: blue;
 }
-#heading1 {
+h1 {
 background-color: darksalmon;
+font-style: oblique;
+}
+h2, h3 {
+    background-color: darkorange;
+    font-style: oblique;
+
 }
