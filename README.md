@@ -6,6 +6,7 @@ This portfolio explains all about me, my backgrounds and my interest in programm
 * Ubuntu oparating system
 * Visual studio code
 * Github
+
 These above, are the tools that i use to acheive my desires during this class, at WeCode moringa school
 ## Technologies Used
 1. HTML5
