@@ -1,7 +1,6 @@
-# UWABIKIRAMARIYA Roselyne
-#### My portfolio
+# Roselyne-portfolio
 ## Description
-This is portfolio explain all about me, my backgrounds and my interest in programming.
+This is portfolio explain all about me, my backgrounds and my interest in programming, 11th December 2018.
 ## Setup/Installation Requirements
 * Ubuntu oparating system
 * Visual studio cose
@@ -13,11 +12,12 @@ These above, are the tools that i use to acheive my desires during this class, a
 3. README
 ## Support and contact details
 I appreciate everyone's support through comment or connection.
-if you want to do so, reach me at email: *mariadelarosita078@gmail.com*
-and my phone cell **+250786421009**
+if you want to do so, reach me at 
+* email: *mariadelarosita078@gmail.com*
+* phone cell **+250786421009**
 My encouragment , my motivation is from my own instict, my parents,my team mentor, my support from WeCode Moringa school.
 ## Links
 If you want to access my work just click *https://github.com/roxaline/Roselyne-portfolio*
 ### License
 *This is my own work.*
-Copyright (c) 2018 **UWABIKIRAMARIYA Roselyne**
+MIT Copyright (c) 2018 **UWABIKIRAMARIYA Roselyne**
