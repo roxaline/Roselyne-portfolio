@@ -1,15 +1,29 @@
 * {
-    background-color: bisque;
-a {
-    font-style: oblique;
-    color: blue;
+    background-color: aliceblue;
 }
-h1 {
-background-color: darksalmon;
-font-style: oblique;
+img {
+    float: left;
 }
-h2, h3 {
-    background-color: darkorange;
-    font-style: oblique;
-
+.Main {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    text-align: center;
+}
+.container {
+padding-top: 330px;
+}
+.container h2, h3 {
+    font-family: 'Courier New', Courier, monospace;
+}
+}
+#heading1{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: darksalmon;
+}
+ a{
+    color: maroon;
+}
+span{
+    color:blue;
 }

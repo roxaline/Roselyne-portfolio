@@ -1,6 +1,6 @@
 # Roselyne-portfolio
 ## Description
-This is portfolio explain all about me, my backgrounds and my interest in programming, 11th December 2018.
+This portfolio explains all about me, my backgrounds and my interest in programming, 11th December 2018.
 ## Setup/Installation Requirements
 * Ubuntu oparating system
 * Visual studio cose
@@ -21,4 +21,5 @@ My encouragment , my motivation is from my own instict, my parents,my team mento
 If you want to access my work just click *https://roxaline.github.io/Roselyne-portfolio/*
 ### License
 *This is my own work.*
+
 MIT Copyright (c) 2018 **UWABIKIRAMARIYA Roselyne**
