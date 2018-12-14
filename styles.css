@@ -16,7 +16,6 @@ padding-top: 330px;
 .container h2, h3 {
     font-family: 'Courier New', Courier, monospace;
 }
-}
 #heading1{
     font-family: 'Courier New', Courier, monospace;
 }
@@ -25,4 +24,7 @@ padding-top: 330px;
 }
 span{
     color:blue;
+}
+.form{
+box-align: center;  
 }
